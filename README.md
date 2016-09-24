@@ -1,3 +1,3 @@
 # disk
 
-http://evedata.github.io/disk/Wallpapers/Windows10/2341.jpg
+http://evedata.github.io/disk/wallpapers/29400.jpg
